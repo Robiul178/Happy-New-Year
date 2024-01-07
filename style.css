@@ -111,9 +111,13 @@
     justify-content: space-between;
     position: relative;
     left: 7%;
-    /* border-radius: 20px; */
+    padding-top: 2rem;
     width: 1320px;
     height: 465px;
+}
+
+.fourth-one {
+    padding-top: 3rem;
 }
 
 .fourth-one h3 {
@@ -142,4 +146,41 @@
     position: relative;
     left: 50px;
     top: 50px;
+}
+
+.fourth-third h3 {
+    font-size: 48px;
+    color: #F00;
+    padding-bottom: 1rem;
+}
+
+.fourth-third p {
+    font-size: 20px;
+    padding-bottom: 1rem;
+}
+
+.fourth-third {
+    padding-top: 3rem;
+}
+
+.fifth {
+    padding-top: 8rem;
+    text-align: center;
+}
+
+.texxt {
+    text-decoration: line-through;
+}
+
+.fifth h2 {
+    font-size: 24px;
+}
+
+.fifth h1 {
+    font-size: 72px;
+}
+
+.holiday {
+    color: #F00;
+    p1rem
 }
