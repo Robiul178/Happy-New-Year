@@ -48,3 +48,32 @@
     padding-top: 3rem;
     color: #F00;
 }
+
+.midnight {
+    padding-top: 10rem;
+    background-image: url("./asset/Vectorrr.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}
+
+.midnight img {
+    position: absolute;
+    left: 64%;
+}
+
+.for-text {
+    position: absolute;
+    left: 10%;
+}
+
+.for-text h1 {
+    font-size: 64px;
+    letter-spacing: 7.04px;
+}
+
+.for-text p {
+    font-size: 18px;
+    padding: 10px;
+}
