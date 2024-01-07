@@ -182,5 +182,37 @@
 
 .holiday {
     color: #F00;
-    p1rem
+    padding: 1rem;
+}
+
+
+/* portfolio section */
+.portfolio {
+    width: 1320px;
+    position: relative;
+    left: 7%;
+    padding-top: 7rem;
+}
+
+.portfolio h1 {
+    font-size: 24px;
+    color: #F00;
+}
+
+.portfolio h2 {
+    font-size: 48px;
+}
+
+.portfolio p {
+    font-size: 20px;
+}
+
+.portfolio-sec {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 3rem;
+}
+
+.portfolio-sec:hover image {
+    opacity: 0.3;
 }
