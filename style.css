@@ -216,3 +216,35 @@
 .portfolio-sec:hover image {
     opacity: 0.3;
 }
+
+.subscribe {
+    margin-top: 5rem;
+    position: relative;
+    left: 7%;
+    border-radius: 16px;
+    width: 1320px;
+    height: 616px;
+    background-color: #FFE7E7;
+}
+
+.subscribe-sec {
+    padding: 8rem 0;
+    text-align: center;
+    font-size: 48px;
+}
+
+.subscribe-sec p {
+    font-size: 20px;
+}
+
+#src-in {
+    padding: 10px 40px;
+    border-radius: 30px 0 0 30px;
+}
+
+#sub-in {
+    padding: 10px 30px;
+    border-radius: 0 30px 30px 0;
+    background-color: #F00;
+    color: white;
+}
