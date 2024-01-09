@@ -64,9 +64,9 @@
 }
 
 .for-text {
-    /* top: 10px; */
     position: absolute;
-    left: 10%;
+    left: 20rem;
+    padding-top: 4rem;
 }
 
 .for-text h1 {
@@ -247,4 +247,54 @@
     border-radius: 0 30px 30px 0;
     background-color: #F00;
     color: white;
+}
+
+
+.footer {
+    height: 609px;
+    background-color: black;
+    margin-top: 5rem;
+    font-size: 24px;
+}
+
+.footer-div {
+    display: flex;
+    color: white;
+    padding: 8rem 5rem;
+    justify-content: space-between;
+}
+
+.for-line {
+    height: 1px;
+    width: 1320px;
+    position: relative;
+    left: 7%;
+    background-color: rgba(255, 255, 255, 0.15);
+
+}
+
+.for-icon {
+    text-align: center;
+    padding: 3rem;
+}
+
+.for-icon img {
+    height: 64px;
+    width: 64px;
+}
+
+.foter {
+    display: flex;
+    color: white;
+    font-size: 24px;
+    justify-content: space-between;
+    padding: 0 5rem;
+}
+
+.btnnn {
+    padding: 5px;
+    background: transparent;
+    color: white;
+    border: none;
+    font-size: 24px;
 }
