@@ -187,6 +187,16 @@
 
 
 /* portfolio section */
+.portfolio-sec img {
+    opacity: 0.5;
+    transition: 1s ease;
+}
+
+.portfolio-sec img:hover {
+    opacity: 1;
+    transition: 1s ease;
+}
+
 .portfolio {
     width: 1320px;
     position: relative;
